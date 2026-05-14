@@ -2,19 +2,20 @@
 Data Mining project analyzing the Breast Cancer Wisconsin (Diagnostic) dataset using KNN, Perceptron, Neural Networks, SVM, and Decision Trees.
 
 
-
 ---
 
 # 🧪 Data Mining Assignment
 
 ## 🎀 Breast Cancer Wisconsin (Diagnostic) Analysis
 
----
+
 
 ## 🎓 Course Information
 
 📘 **Course:** Data Mining: Models, Algorithms, and Applications
+
 👨‍🏫 **Instructor:** Dr. Ahmadi
+
 🏫 **University:** Amirkabir University of Technology (Tehran Polytechnic)
 
 ---
@@ -30,7 +31,7 @@ The **Breast Cancer Wisconsin** dataset from the **UCI Machine Learning Reposito
 🔗 **Dataset Link:**
 [https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic](https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic)
 
----
+
 
 # 🧩 Assignment Tasks
 
@@ -40,14 +41,14 @@ The **Breast Cancer Wisconsin** dataset from the **UCI Machine Learning Reposito
 * Handle missing values and noise (this dataset has **no missing values**).
 * Standardize data using the **Min-Max method**.
 
----
+
 
 ## 📊 (B) Data Splitting and Confusion Matrix
 
 * Split the data using the **Perceptron method**: 75% for training, 25% for testing.
 * Construct the **confusion matrix** and explain the results.
 
----
+
 
 ## 🧠 (C) Modeling and Evaluation
 
@@ -65,7 +66,7 @@ The **Breast Cancer Wisconsin** dataset from the **UCI Machine Learning Reposito
   * **AUC (Area Under the Curve)**
 * Determine which method performs best and explain why.
 
----
+
 
 ## 🌳 (D) Decision Tree and Feature Selection
 
@@ -94,7 +95,6 @@ The **Breast Cancer Wisconsin** dataset from the **UCI Machine Learning Reposito
 | 1    | Diagnosis                  | Target      | Malignant / Benign                                                                                                                                                         | -     | No             |
 | 2-31 | radius1…fractal_dimension3 | Continuous  | Ten real-valued features computed for each cell nucleus: radius, texture, perimeter, area, smoothness, compactness, concavity, concave points, symmetry, fractal dimension | -     | No             |
 
-> Features are calculated from the FNA images of cell nuclei.
 
 ---
 
@@ -102,5 +102,3 @@ The **Breast Cancer Wisconsin** dataset from the **UCI Machine Learning Reposito
 
 * [UCI Machine Learning Repository – Breast Cancer Wisconsin (Diagnostic)](https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic)
 * K. P. Bennett and O. L. Mangasarian, *Robust Linear Programming Discrimination of Two Linearly Inseparable Sets*, Optimization Methods and Software, 1, 1992, 23-34.
-
-می‌خوای بسازم؟
