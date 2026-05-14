@@ -8,8 +8,6 @@ Data Mining project analyzing the Breast Cancer Wisconsin (Diagnostic) dataset u
 
 ## 🎀 Breast Cancer Wisconsin (Diagnostic) Analysis
 
-
-
 ## 🎓 Course Information
 
 📘 **Course:** Data Mining: Models, Algorithms, and Applications
@@ -94,11 +92,3 @@ The **Breast Cancer Wisconsin** dataset from the **UCI Machine Learning Reposito
 | 0    | ID                         | Categorical | Record ID                                                                                                                                                                  | -     | No             |
 | 1    | Diagnosis                  | Target      | Malignant / Benign                                                                                                                                                         | -     | No             |
 | 2-31 | radius1…fractal_dimension3 | Continuous  | Ten real-valued features computed for each cell nucleus: radius, texture, perimeter, area, smoothness, compactness, concavity, concave points, symmetry, fractal dimension | -     | No             |
-
-
----
-
-# 📌 References
-
-* [UCI Machine Learning Repository – Breast Cancer Wisconsin (Diagnostic)](https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic)
-* K. P. Bennett and O. L. Mangasarian, *Robust Linear Programming Discrimination of Two Linearly Inseparable Sets*, Optimization Methods and Software, 1, 1992, 23-34.
